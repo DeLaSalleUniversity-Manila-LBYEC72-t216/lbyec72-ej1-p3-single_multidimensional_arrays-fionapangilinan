@@ -5,4 +5,6 @@ screenshots:
 
 ![](s1.jpg)
 
+when 1 is selected:
+
 ![](s2.jpg)
