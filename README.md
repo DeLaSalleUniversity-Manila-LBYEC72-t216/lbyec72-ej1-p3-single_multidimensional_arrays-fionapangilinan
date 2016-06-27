@@ -3,8 +3,22 @@ lbyec72-ej1-p3-single_multidimensional_arrays-fionapangilinan created by GitHub 
 
 screenshots:
 
-![](s1.jpg)
+The main selection screen
 
-when 1 is selected:
+![](31.jpg)
 
-![](s2.jpg)
+when 4 was selected:
+
+![](32.jpg)
+
+when 1 was selected:
+
+![](33.jpg)
+
+when Yes was selected it computes again:
+
+![](34.jpg)
+
+when 2 wass selected:
+
+![](35.jpg)
