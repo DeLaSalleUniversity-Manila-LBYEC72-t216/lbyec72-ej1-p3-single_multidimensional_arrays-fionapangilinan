@@ -19,6 +19,10 @@ when Yes was selected it computes again:
 
 ![](34.jpg)
 
+when No was selected it goes back to the main menu:
+
+![](31.jpg)
+
 when 2 wass selected:
 
 ![](35.jpg)
