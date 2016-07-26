@@ -7,9 +7,9 @@ The main selection screen
 
 ![](1.jpg)
 
-![](2.jpg)
-
 ![](3.jpg)
+
+![](2.jpg)
 
 ![](4.jpg)
 
